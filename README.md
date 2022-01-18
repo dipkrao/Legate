@@ -1,1 +1,1 @@
-# Legate
+# legate
